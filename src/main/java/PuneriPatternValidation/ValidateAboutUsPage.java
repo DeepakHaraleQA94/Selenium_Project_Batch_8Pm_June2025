@@ -28,6 +28,7 @@ public class ValidateAboutUsPage {
 			System.out.println("Tc failed");
 		}
 	
+		System.out.println("my build has been done");
 		driver.close();
 	}
 	
